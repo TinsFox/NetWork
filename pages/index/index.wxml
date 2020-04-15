@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <button bindtap="initData"> 调用测试接口 </button>
+  </view>
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+</view>
