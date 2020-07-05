@@ -25,3 +25,6 @@
     ├── token.js
     └── util.js
 ```
+
+## 多文件版为master分支
+## 单文件版为single分支
